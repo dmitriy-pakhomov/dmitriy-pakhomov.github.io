@@ -1,0 +1,58 @@
+SUMMARY
+
+15+ years of experience as Systems Engineer and DevOps
+Planning, implementing development cycle of applications on various cloud platforms, such as
+AWS, OpenStack, VMWare vSphere.
+Providing configuration management for service roles (Puppet/Ansible).
+Python, Bash and Ruby programing/scripting skills and experienced with Java concept & OOP.
+Deployment of complex Java application.
+Deployment and support Jenkins master/slave configuration.
+Deployment of Cloudera Hadoop Cluster with Cloudera manager for High-load production cluster.
+Configuration and deployment collaborations tools for R&D teams (on premise MS TFS).
+Planning architecture and building OpenStack Private Cloud with CEPH as storage backend for company (using puppet).
+Write simple project on Python with VirtualBox API for automated windows images update.
+Architecture planning and deployment AWS Virtual Private Cloud for production services with
+different availability zones and AWS Elastic Load Balancer.
+AWS Route53 zones management. AWS AMI configuration. Access control with AWS Security Groups. AWS Elastic Map Reduce cluster with Apache Spark service.
+Work with collaboration tools (JIRA, salesforce).
+Configuring Jenkins jobs and support build issues.
+SIEM configuration and management, Vulnerability Management system deployment and configuration.
+
+PROFESSIONAL EXPERIENCE
+Sr. DevOps at BasketSavings Inc. November 2017 - Present
+- AWS ASG, ALB, ELB, Redshift, ElasticCache, Transit Gateway, CloudFormation
+- Java debugging with jVisualVM tool, GC optimization
+- Management of distributed microservices written on java and javascript
+- Platform Security improvements
+- Management of Couchbase clusters
+- Management of Elastcsearch clusters
+- Implementation of HA with rolling updates and rollback features
+- Applications deployments based on Ansible playbooks and TeamCity CI/CD tool.
+- Movement of platform microservices to the Kubernetes cluster using Helm
+- Dockerizing applications
+- Implementation of a centralized logging and alerting system
+
+Sr. Systems Engineer/DevOps at Lohika (www.lohika.com) December 2009 - November 2017
+From February 2015 till May 2016 DevOPS Engineer on projects:
+- Support and configuration of Jenkins server. Jenkins Jobs configuration. Environment deployment.
+- Work with AWS services(EC2, VPC, ELB, EMR, R53, Directory Service)
+- Collaboration with developers and sales team.
+- Monitoring and reacting on issues with production environment.
+- Work with CMS Puppet/Ansible/SaltStack From December 2009 till February 2015
+Sr. System Engineer:
+- Company production services deployment, configuration and support.
+- Deployments customer related environments for R&D and QE teams.
+- Urgent support/Troubleshooting
+System Administrator at Stuff Centre Group of Companies August 2007 - December 2009
+- Responsible for all IT services.
+- Support and troubleshooting of mail services for group of users.
+- IP-telephony solution based on Cisco ATA and PBX Siemens.
+- Crossbranch communication and routing base on linux technologies.
+- Support and maintenance of structured cabling. Help Desk.
+System Administrator at Interpoint Development June 2006 - July 2007
+- Office infrastructure from scratch, distributed render farm for 3dmax.
+ ©2016 Appko. www.appko.com
+System Administrator at Incor Group of Companies June 2005 - July 2006
+- FreeBSD routing, IPSec, cached proxy, Active Directory. System Administrator at Sun-tel ISP
+July 2003 – May 2005
+- Administrator on duty: modems, aDSL, shDSL, TCP/IP.
