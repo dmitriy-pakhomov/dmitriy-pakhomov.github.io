@@ -51,8 +51,8 @@ System Administrator at Stuff Centre Group of Companies August 2007 - December 2
 - Support and maintenance of structured cabling. Help Desk.
 System Administrator at Interpoint Development June 2006 - July 2007
 - Office infrastructure from scratch, distributed render farm for 3dmax.
- ©2016 Appko. www.appko.com
 System Administrator at Incor Group of Companies June 2005 - July 2006
-- FreeBSD routing, IPSec, cached proxy, Active Directory. System Administrator at Sun-tel ISP
+- FreeBSD routing, IPSec, cached proxy, Active Directory. 
+System Administrator at Sun-tel ISP
 July 2003 – May 2005
 - Administrator on duty: modems, aDSL, shDSL, TCP/IP.
