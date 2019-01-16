@@ -38,7 +38,8 @@ From February 2015 till May 2016 DevOPS Engineer on projects:
 - Work with AWS services(EC2, VPC, ELB, EMR, R53, Directory Service)
 - Collaboration with developers and sales team.
 - Monitoring and reacting on issues with production environment.
-- Work with CMS Puppet/Ansible/SaltStack From December 2009 till February 2015
+- Work with CMS Puppet/Ansible/SaltStack 
+From December 2009 till February 2015
 Sr. System Engineer:
 - Company production services deployment, configuration and support.
 - Deployments customer related environments for R&D and QE teams.
